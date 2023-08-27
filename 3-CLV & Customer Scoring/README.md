@@ -18,5 +18,3 @@
 ![Image](https://github.com/KaninJC/MADT8101-Seminar-in-Advanced-Analytic/blob/6ccf8ffea5b4ec90dfadac1567c0c183021fa53f/3-CLV%20%26%20Customer%20Scoring/4-Customer%20segmentation%20analysis.png)
 ### Team member
 ![Image](https://github.com/KaninJC/MADT8101-Seminar-in-Advanced-Analytic/blob/6ccf8ffea5b4ec90dfadac1567c0c183021fa53f/3-CLV%20%26%20Customer%20Scoring/5-Team%20member.png)
-
-## Thank you
