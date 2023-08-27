@@ -9,5 +9,6 @@
   * Identify challenges of product recommendation
 ### Selected industry: 
 * Network marketing
+* ### Selected brands: 
 ![Image](https://github.com/KaninJC/MADT8101-Seminar-in-Advanced-Analytic/blob/0b1e1bb247a0da8f58ee946ca662f6b60e54dba7/5-Customer%20Segmentation%20%26%20Product%20Recommendation/1-HDI%20.png)
 
