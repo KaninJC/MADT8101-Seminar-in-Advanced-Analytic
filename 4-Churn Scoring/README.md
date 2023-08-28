@@ -29,3 +29,6 @@
 * Oversampling_XG Boost
 
 ![Image](https://github.com/KaninJC/MADT8101-Seminar-in-Advanced-Analytic/blob/f2e2bd624838807537104fa8a254f8ca166ef71f/4-Churn%20Scoring/3-Undersampling.png)
+
+#### F1 Score - Result ranking
+![Image](https://github.com/KaninJC/MADT8101-Seminar-in-Advanced-Analytic/blob/6f1c29d25f0e965af4f383276fe68bd2c6d6d43f/4-Churn%20Scoring/4-F1%20Score%20Ranking.png)
