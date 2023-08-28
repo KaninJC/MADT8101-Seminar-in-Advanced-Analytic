@@ -10,7 +10,7 @@
 ### Selected industry: 
 * Network marketing
 ### Selected brands: 
-![Image](https://github.com/KaninJC/MADT8101-Seminar-in-Advanced-Analytic/blob/0b1e1bb247a0da8f58ee946ca662f6b60e54dba7/5-Customer%20Segmentation%20%26%20Product%20Recommendation/1-HDI%20.png)
+![Image](https://github.com/KaninJC/MADT8101-Seminar-in-Advanced-Analytic/blob/6aaa9ace1b9e0988c6fe425ed127b5d5e1262c7a/5-Customer%20Segmentation%20%26%20Product%20Recommendation/1-HDI.png)
 ### Data preparation
 ![Image](https://github.com/KaninJC/MADT8101-Seminar-in-Advanced-Analytic/blob/513edefcc8352ac0c03829874c071869f489f872/5-Customer%20Segmentation%20%26%20Product%20Recommendation/2-Data%20preparation.png)
 ### Customer segmentation
