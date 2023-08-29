@@ -11,7 +11,7 @@
 ![Image](https://github.com/KaninJC/MADT8101-Seminar-in-Advanced-Analytic/blob/62282da2ed6ad128b2713fd5122181fd3e024378/6-Voice%20of%20customer%20(VOC)/7-11%20FB%20Post.png)
 
 ### Topic Modeling
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/6.TopicModeling/TopicModeling.ipynb](https://colab.research.google.com/drive/1-3v5Cup6Z6ERIab0Mx5jt1mMEdO1NG6L?usp=sharing)https://colab.research.google.com/drive/1-3v5Cup6Z6ERIab0Mx5jt1mMEdO1NG6L?usp=sharing)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-3v5Cup6Z6ERIab0Mx5jt1mMEdO1NG6L#scrollTo=B7kgdFuQ0_Si)
 
 ### Result analysis
 #### Topic 1: Application do not support old mobile model
